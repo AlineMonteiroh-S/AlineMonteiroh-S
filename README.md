@@ -3,5 +3,5 @@
 Desenvolvedora SAP ABAP ✨
 
 - 💻 Trabalho com a linguagem ABAP, desenvolvida pela SAP
-- 🌱 Estudando ABAP para melhorar meus conhecimentos
+- 🌱 Estudando programação para melhorar meus conhecimentos
 - 💁🏽‍♀️ Ela/Dela
