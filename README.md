@@ -9,8 +9,8 @@
 
 ##
 
-  ![Aline GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineMonteiroh-S&show_icons=true&theme=synthwave&include_all_commits&hide=contribs&rank_icon=github)
-  
+ [![Aline GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineMonteiroh-S&show_icons=true&theme=synthwave&include_all_commits=true&hide=contribs&rank_icon=github)](https://github.com/AlineMonteiroh-S)
+
 <!--
   <div style="display: inline_block"><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="30"/>
